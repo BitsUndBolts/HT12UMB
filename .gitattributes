@@ -1,0 +1,9 @@
+# DOS sources and text keep CR LF in every checkout
+*.ASM text eol=crlf
+*.asm text eol=crlf
+*.TXT text eol=crlf
+*.BAT text eol=crlf
+*.md  text eol=lf
+# DOS binaries
+*.SYS binary
+*.COM binary

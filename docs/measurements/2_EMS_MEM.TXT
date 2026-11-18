@@ -1,0 +1,31 @@
+
+Modules using memory below 1 MB:
+
+  Name           Total       =   Conventional   +   Upper Memory
+  --------  ----------------   ----------------   ----------------
+  MSDOS       14,301   (14K)     14,301   (14K)          0    (0K)
+  HT12MM      12,864   (13K)     12,864   (13K)          0    (0K)
+  SETVER         480    (0K)        480    (0K)          0    (0K)
+  HIMEM        1,168    (1K)      1,168    (1K)          0    (0K)
+  COMMAND      3,008    (3K)      3,008    (3K)          0    (0K)
+  SMARTDRV    27,488   (27K)     27,488   (27K)          0    (0K)
+  Free       596,000  (582K)    596,000  (582K)          0    (0K)
+
+Memory Summary:
+
+  Type of Memory       Total   =    Used    +    Free
+  ----------------  ----------   ----------   ----------
+  Conventional         655,360       59,360      596,000
+  Upper                      0            0            0
+  Reserved             393,216      393,216            0
+  Extended (XMS)     2,097,152    1,114,112      983,040
+  ----------------  ----------   ----------   ----------
+  Total memory       3,145,728    1,566,688    1,579,040
+
+  Total under 1 MB     655,360       59,360      596,000
+
+  Total Expanded (EMS)                 1,343,488 (1,312K)
+  Free Expanded (EMS)                  1,343,488 (1,312K)
+  Largest executable program size        595,984   (582K)
+  Largest free upper memory block              0     (0K)
+  MS-DOS is resident in the high memory area.

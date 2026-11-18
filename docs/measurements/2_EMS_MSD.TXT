@@ -1,0 +1,318 @@
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  1
+    ========================================================================
+
+    ------------------------ Summary Information --------------------------
+
+                      Computer: American Megatrend, 80286
+                        Memory: 640K, 3072K Ext, 1312K EMS, 805K XMS
+                         Video: VGA, Paradise, Paradise
+                       Network: No Network
+                    OS Version: MS-DOS Version 6.22
+                         Mouse: Not Detected
+                Other Adapters: Game Adapter
+                   Disk Drives: A: C:
+                     LPT Ports: 1
+                     COM Ports: 2
+           Windows Information: Not Detected
+
+    ------------------------------ Computer -------------------------------
+
+                        Computer Name: American Megatrends
+                    BIOS Manufacturer: American Megatrends
+                         BIOS Version:
+                        BIOS Category: IBM PC/AT
+                        BIOS ID Bytes: FC 01 00
+                            BIOS Date: 06/13/90
+                            Processor: 80286
+                     Math Coprocessor: None
+                             Keyboard: Enhanced
+                             Bus Type: ISA/AT/Classic Bus
+                       DMA Controller: Yes
+                        Cascaded IRQ2: Yes
+                    BIOS Data Segment: None
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  2
+    ========================================================================
+
+    ------------------------------- Memory --------------------------------
+
+     Legend:  Available "  "  RAM "##"  ROM "RR"  Possibly Available ".."
+       EMS Page Frame "PP"  Used UMBs "UU"  Free UMBs "FF"
+     1024K FC00 RRRRRRRRRRRRRRRR FFFF  Conventional Memory
+           F800 RRRRRRRRRRRRRRRR FBFF                 Total: 640K
+           F400 RRRRRRRRRRRRRRRR F7FF             Available: 563K
+      960K F000 RRRRRRRRRRRRRRRR F3FF                        577232 bytes
+           EC00                  EFFF
+           E800                  EBFF  Extended Memory
+           E400                  E7FF                 Total: 3072K
+      896K E000                  E3FF
+           DC00                  DFFF  Expanded Memory (EMS)
+           D800                  DBFF           LIM Version: 4.00
+           D400 PPPPPPPPPPPPPPPP D7FF    Page Frame Address: C800H
+      832K D000 PPPPPPPPPPPPPPPP D3FF                 Total: 1312K
+           CC00 PPPPPPPPPPPPPPPP CFFF             Available: 1312K
+           C800 PPPPPPPPPPPPPPPP CBFF
+           C400 RRRRRRRR  ...... C7FF  XMS Information
+      768K C000 RRRRRRRRRRRRRRRR C3FF           XMS Version: 3.00
+           BC00 ################ BFFF        Driver Version: 3.10
+           B800 ################ BBFF      A20 Address Line: Enabled
+           B400                  B7FF      High Memory Area: In use
+      704K B000                  B3FF             Available: 805K
+           AC00                  AFFF    Largest Free Block: 805K
+           A800                  ABFF
+           A400                  A7FF
+      640K A000                  A3FF
+
+    ------------------------------- Video ---------------------------------
+
+                           Video Adapter Type: VGA
+                                 Manufacturer: Paradise
+                                        Model: Paradise
+                                 Display Type: VGA Color
+                                   Video Mode: 3
+                            Number of Columns: 80
+                               Number of Rows: 25
+                           Video BIOS Version:
+                              Video BIOS Date: 07/14/88
+                       VESA Support Installed: No
+                            Secondary Adapter: None
+
+    ------------------------------ Network --------------------------------
+
+                             Network Detected: No
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  3
+    ========================================================================
+
+    ----------------------------- OS Version ------------------------------
+
+                      Operating System: MS-DOS 6.22
+                     Internal Revision: 00
+                     OEM Serial Number: FFH
+                    User Serial Number: 000000H
+                    OEM Version String: MS-DOS Version 6.22
+                        DOS Located in: HMA
+                            Boot Drive: C:
+                       Path to Program: C:\DOS\MSD.EXE
+                    
+                      Environment Strings
+                    ----------------------
+                    COMSPEC=C:\COMMAND.COM
+                    PROMPT=$p$g
+                    PATH=C:\DOS
+                    TEMP=C:\DOS
+
+    ------------------------------- Mouse ---------------------------------
+
+                            Mouse Hardware: Not Detected
+                       Driver Manufacturer: No Mouse Driver
+
+    --------------------------- Other Adapters ----------------------------
+
+                             Game Adapter: Detected
+                           Joystick A - X: 0
+                                        Y: 0
+                                 Button 1: On
+                                 Button 2: On
+                           Joystick B - X: 2
+                                        Y: 2
+                                 Button 1: On
+                                 Button 2: On
+
+    ---------------------------- Disk Drives ------------------------------
+
+      Drive  Type                                  Free Space  Total Size
+      -----  ------------------------------------  ----------  ----------
+        A:   Floppy Drive, 3.5" 1.44M
+               80 Cylinders, 2 Heads
+               512 Bytes/Sector, 18 Sectors/Track
+        C:   Fixed Disk, CMOS Type 47                    243M        250M
+               1002 Cylinders, 16 Heads
+               512 Bytes/Sector, 32 Sectors/Track
+      LASTDRIVE=E:
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  4
+    ========================================================================
+
+    ----------------------------- LPT Ports -------------------------------
+
+                  Port     On     Paper    I/O    Time
+         Port   Address   Line     Out    Error    Out    Busy     ACK
+         -----  -------   ----    -----   -----   ----    ----     ---
+         LPT1:   0378H     No      No      Yes     No      Yes     No
+         LPT2:     -        -       -       -       -       -       -
+         LPT3:     -        -       -       -       -       -       -
+
+    ----------------------------- COM Ports -------------------------------
+
+                                  COM1:      COM2:      COM3:      COM4:
+                                  -----      -----      -----      -----
+       Port Address               03F8H      02F8H        N/A        N/A
+       Baud Rate                   2400       2400
+       Parity                      None       None
+       Data Bits                      8          8
+       Stop Bits                      1          1
+       Carrier Detect (CD)           No         No
+       Ring Indicator (RI)           No         No
+       Data Set Ready (DSR)          No         No
+       Clear To Send (CTS)           No         No
+       UART Chip Used              8250       8250
+
+    ------------------------ Windows Information --------------------------
+
+                         Windows version: Not Detected
+
+    ----------------------------- IRQ Status ------------------------------
+
+    IRQ  Address    Description       Detected            Handled By
+    ---  ---------  ----------------  ------------------  ----------------
+      0  9F87:0273  Timer Click       Yes                 BEAK
+      1  9F87:0501  Keyboard          Yes                 BEAK
+      2  068D:0057  Second 8259A      Yes                 Default Handlers
+      3  068D:006F  COM2: COM4:       COM2:               Default Handlers
+      4  068D:0087  COM1: COM3:       COM1:               Default Handlers
+      5  068D:009F  LPT2:             No                  Default Handlers
+      6  068D:00B7  Floppy Disk       Yes                 Default Handlers
+      7  0070:06F4  LPT1:             Yes                 System Area
+      8  068D:0052  Real-Time Clock   Yes                 Default Handlers
+      9  F000:EEC7  Redirected IRQ2   Yes                 BIOS
+     10  068D:00CF  (Reserved)                            Default Handlers
+     11  068D:00E7  (Reserved)                            Default Handlers
+     12  068D:00FF  (Reserved)                            Default Handlers
+     13  F000:EED0  Math Coprocessor  No                  BIOS
+     14  068D:0117  Fixed Disk        Yes                 Default Handlers
+     15  F000:FF53  (Reserved)                            BIOS
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  5
+    ========================================================================
+
+    ---------------------------- TSR Programs -----------------------------
+
+     Program Name        Address   Size   Command Line Parameters
+     ------------------  -------  ------  --------------------------------
+     System Data           0253    19152
+       HT12MM              0255    12848  EMMXXXX0
+       SETVER              0579      464  SETVERXX
+       HIMEM               0597     1152  XMSXXXX0
+       File Handles        05E0     1488
+       FCBS                063E      256
+       BUFFERS             064F      512
+       Directories         0670      448
+       Default Handlers    068D     1856
+     System Code           0701       64
+     COMMAND.COM           0706     2640   /RESUME
+     COMMAND.COM           07AC       64   /RESUME
+     COMMAND.COM           07B1      256   /RESUME
+     DOSAI.EXE             07C2       80   /RESUME
+     SMARTDRV              07C8    27472   /X
+     DOSAI.EXE             0E7E    18640   /RESUME
+     MSD.EXE               130C       80   /P C:\DOSAI\MSD_POST.TXT
+     MSD.EXE               1312   335040   /P C:\DOSAI\MSD_POST.TXT
+     MSD.EXE               64DF     8192   /P C:\DOSAI\MSD_POST.TXT
+     Free Memory           66E0   232016
+     BEAK                  9F86     1936  t
+
+    --------------------------- Device Drivers ----------------------------
+
+          Device        Filename  Units    Header      Attributes
+          ------------  --------  -----  ---------  ----------------
+          NUL                            0116:0048  1............1..
+          Block Device              3    07D9:2192  ....1...11....1.
+          XMSXXXX0      HIMEM            0597:0000  1.1.............
+          SETVERXX      SETVER           0579:0000  1...............
+          EMMXXXX0      HT12MM           0255:0000  1...............
+          CON                            0070:0023  1..........1..11
+          AUX                            0070:0035  1...............
+          PRN                            0070:0047  1.1.....11......
+          CLOCK$                         0070:0059  1...........1...
+          Block Device              3    0070:006B  ....1...11....1.
+          COM1                           0070:007B  1...............
+          LPT1                           0070:008D  1.1.....11......
+          LPT2                           0070:009F  1.1.....11......
+          LPT3                           0070:00B8  1.1.....11......
+          COM2                           0070:00CA  1...............
+          COM3                           0070:00DC  1...............
+          COM4                           0070:00EE  1...............
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  6
+    ========================================================================
+
+    ---------------- ROM BIOS              F000    65536 ------------------
+
+    F000:72BB System Configuration (C) Copyright 1985-1990, American Megatre
+              nds Inc.,
+    F000:D735 CMOS SETUP (C) Copyright 1985-1990, American Megatrends Inc.,
+               Date (mn/date/year):
+    F000:000A o04/09/90ROM DIAGNOSTICS.(C)1987, American Megatrends Inc.All
+              rights reserved.1346 Oakbrook Drive, Suite 120,Norcross, GA 30
+              093, Phone-(404)-263-8181.
+    F000:1AD7 ppy     Commu.     Display   Printer        Memory       CO-pr
+              oc
+                                  ROM DIAGNOSTICS, (C)1986, American Megatre
+              nds Inc. Hard Disk      Floppy     KeyBoard      Video
+    F000:8000 XXXX88886666----0123AAAAMMMMIIII Date:-06/13/90 (C)1985-1990,
+              American Megatrends Inc. All Rights Reserved.
+    F000:E0CA R(C)1985-1990, American Megatrends Inc.,All Rights Reserved.13
+              46 Oakbrook Drive, Suite-120, Norcross, GA-30093. Phone-(404)-
+              263-8181.
+    F000:E2D0 000000000000000n(C)1990 American Megatrends Inc.286-BIOS (C)19
+              89 American Megatrends Inc
+    F000:E00E IBM COMPATIBLE IBM IS A TRADEMARK OF INTERNATIONAL BUSINESS MA
+              CHINES CORP.
+    F000:73D2 ROM-BIOS Date      :
+    F000:7F00 HT-11 286 BIOS
+    F000:D6B2 ROM-BIOS CHECKSUM ERROR
+              CHECK ROM (27256)?
+    F000:D85F Hard disk D: type  :
+               Primary display    :
+               Keyboard           :
+               BIOS shadow option :
+    F000:D9DE Video BIOS
+    F000:D9F3 Main BIOS
+    F000:DA08 Main & video BIOS
+    F000:DA1D Options :
+               Main or video BIOS Shadow Enable/Disable
+    F000:DD81 If required, BIOS will use 256 bytes of RAM
+               (1) : Using BIOS stack area at 0030:0000
+               (2) : Reducing base memory size by 1KB
+    F000:1ABA vices  Present Harddisk   Floppy     Commu.     Display   Prin
+              ter        Memory       CO-proc
+                                                               ROM DIAGNOSTI
+              CS, (C)1986, American Megatrends Inc. Hard Disk      F
+    F000:FF59 (C)1990AMI,404-263-8181
+
+    ---------------- Video ROM BIOS        C000    24576 ------------------
+
+    C000:0035 003056-007COPYRIGHT PARADISE SYSTEMS INC. 1987,1988, ALL RIGHT
+              S RESERVEDVGA=U
+    C000:001E IBM COMPATABLE
+
+
+       Microsoft Diagnostics version 2.11   11/18/26    1:07pm   Page  7
+    ========================================================================
+
+    -------------------------- C:\AUTOEXEC.BAT ----------------------------
+
+    C:\DOS\SMARTDRV.EXE /X
+    @ECHO OFF
+    PROMPT $p$g
+    PATH C:\DOS
+    SET TEMP=C:\DOS
+    MEM /C > C:\DOSAI\BOOTMEM.TXT
+    C:\COO\DOSAI.EXE /RESUME
+
+    --------------------------- C:\CONFIG.SYS -----------------------------
+
+    DEVICE=C:\HT12\HT12MM.SYS /FULLDISPLAY /EXTENDED=2048
+    DEVICE=C:\DOS\SETVER.EXE
+    DEVICE=C:\DOS\HIMEM.SYS
+    DOS=HIGH
+    FILES=30
+
